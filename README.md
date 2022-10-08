@@ -2,16 +2,11 @@
 - ✉️ You can contact me at djigo.maouchi@yahoo.com
 - 💞️ I’m looking to collaborate on projects as a full stack web developer
 - 😄 ready to workout after many hours of my coding journey ⚽🥊
-
-
-## About Me
 - 🌍 I live in San Antonio, Texas
 - 🌱 I’m currently learning Web Developement 
 
 ## Computer Skils
-* React 
-* Javascript 
-* HTML5 
+* React * Javascript  * HTML5 
 * CSS3 
 * MySQL
 * MongoDB 
