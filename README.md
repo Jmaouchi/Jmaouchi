@@ -6,7 +6,7 @@
 - 😄 ready to workout after many hours of my coding journey 
 
 
-#Computer Skils
+# Computer Skils
 
 
 <!---
