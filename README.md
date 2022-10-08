@@ -6,14 +6,7 @@
 - 🌱 I’m currently learning Web Developement 
 
 ## Computer Skils
-* React * Javascript  * HTML5 
-* CSS3 
-* MySQL
-* MongoDB 
-* Bulma
-* Bootstrap 
-* NodeJS 
-* ExpressJS
+React - Javascript - HTML5 - CSS3 - MySQL - MongoDB - Bulma - Bootstrap - NodeJS - ExpressJS
 
 
 <!---
