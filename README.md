@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jmaouchi
+- 👋 Hi, I’m @Jmaouchi, I'm a full stack developer
 - 🌍 I live in San Antonio, Texas
 - ✉️ You can contact me at djigo.maouchi@yahoo.com
 - 🌱 I’m currently learning Web Developement 
@@ -6,8 +6,8 @@
 - 😄 ready to workout after many hours of my coding journey 
 
 
-#Skils 
-React Javascript HTML5 CSS3 MongoDB Sass Bootstrap NodeJS Express Photoshop Premiere Pro
+#Computer Skils
+
 
 <!---
 Jmaouchi/Jmaouchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
