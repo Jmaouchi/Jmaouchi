@@ -1,12 +1,24 @@
 - 👋 Hi, I’m @Jmaouchi, I'm a full stack developer
-- 🌍 I live in San Antonio, Texas
 - ✉️ You can contact me at djigo.maouchi@yahoo.com
-- 🌱 I’m currently learning Web Developement 
 - 💞️ I’m looking to collaborate on projects as a full stack web developer
-- 😄 ready to workout after many hours of my coding journey 
+- 😄 ready to workout after many hours of my coding journey ⚽🥊
 
 
-# Computer Skils
+## About Me
+- 🌍 I live in San Antonio, Texas
+- 🌱 I’m currently learning Web Developement 
+
+## Computer Skils
+* React 
+* Javascript 
+* HTML5 
+* CSS3 
+* MySQL
+* MongoDB 
+* Bulma
+* Bootstrap 
+* NodeJS 
+* ExpressJS
 
 
 <!---
