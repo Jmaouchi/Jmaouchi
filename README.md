@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jmaouchi, I'm a full stack developer
+- 👋 Hi, I’m Jugurta Maouchi, I'm a full stack developer
 - ✉️ You can contact me at djigo.maouchi@yahoo.com
 - 💞️ I’m looking to collaborate on projects as a full stack web developer
 - 😄 ready to workout after many hours of my coding journey ⚽🥊
