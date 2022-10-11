@@ -5,7 +5,7 @@
 - 🌍 I live in San Antonio, Texas
 - 🌱 I’m currently learning Web Developement 
 
-## Computer Skils
+## Skills
 React - Javascript - HTML5 - CSS3 - MySQL - MongoDB - Bulma - Bootstrap - NodeJS - ExpressJS
 
 
