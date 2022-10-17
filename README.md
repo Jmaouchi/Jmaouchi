@@ -1,4 +1,4 @@
-<img src='https://imgur.com/gallery/2cCeotT'></img>
+https://miro.medium.com/max/828/1*jB76MLZjiNhGSQQvxm7LSQ.gif
 <h1 align="center">Hi 👋, I'm Jugurta Maouchi</h1>
 <h3 align="center">A passionate full stack web developer from USA</h3>
 <img
