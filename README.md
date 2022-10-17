@@ -26,5 +26,3 @@ align="right"     src="https://camo.githubusercontent.com/61491d59e71fec5c794945
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmaouchi&show_icons=true&locale=en&layout=compact" alt="jmaouchi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmaouchi&show_icons=true&locale=en" alt="jmaouchi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmaouchi&" alt="jmaouchi" /></p>
