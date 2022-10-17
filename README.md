@@ -1,4 +1,4 @@
-https://imgur.com/gallery/2cCeotT
+<img src='https://imgur.com/gallery/2cCeotT'></img>
 <h1 align="center">Hi 👋, I'm Jugurta Maouchi</h1>
 <h3 align="center">A passionate full stack web developer from USA</h3>
 <img
